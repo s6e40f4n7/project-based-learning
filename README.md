@@ -1,21 +1,28 @@
-MIT License
+# Project-Based Learning
 
-Copyright (c) 2024 The project-based-learning contributors
+A curated list of project-based tutorials to learn programming languages and technologies by building real applications.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Table of Contents
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- [C / C++](#c--c)
+- [Python](#python)
+- [Data Science & Data Engineering](#data-science--data-engineering)
+- [Go](#go)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## C / C++
+
+* [Build your own Redis with C/C++](https://build-your-own-org.github.io/)
+
+## Python
+
+* [Build a web scraper with Python and Beautiful Soup](https://realpython.com/python-web-scraping-practical-introduction/)
+* [Create a REST API with Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
+## Data Science & Data Engineering
+
+* [Build a Data Pipeline with Apache Airflow and PostgreSQL](https://marclamberti.com/blog/airflow-etl-pipeline-example/)
+* [Build an End-to-End Data Engineering Project with PySpark](https://github.com/josephmachado/beginner_data_engineering)
+
+## Go
+
+* [Build a 3D Renderer in Go](https://github.com/fogleman/pt)
