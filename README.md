@@ -1,28 +1,33 @@
 # Project-Based Learning
 
-A curated list of project-based tutorials to learn programming languages and technologies by building real applications.
+A curated list of project-based tutorials in various programming languages.
 
 ## Table of Contents
 
 - [C / C++](#c--c)
-- [Python](#python)
-- [Data Science & Data Engineering](#data-science--data-engineering)
+- [C#](#c-1)
+- [Clojure](#clojure)
 - [Go](#go)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Python](#python)
+- [Rust](#rust)
+- [Data Engineering & Data Science](#data-engineering--data-science)
 
-## C / C++
-
-* [Build your own Redis with C/C++](https://build-your-own-org.github.io/)
+---
 
 ## Python
 
-* [Build a web scraper with Python and Beautiful Soup](https://realpython.com/python-web-scraping-practical-introduction/)
-* [Create a REST API with Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+* [Build a Simple Web Scraper with Python](https://realpython.com/python-web-scraping-practical-introduction/)
+* [Build a REST API with Flask and SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/)
+* [Build a CLI Tool with Click](https://click.palletsprojects.com/)
 
-## Data Science & Data Engineering
+## Data Engineering & Data Science
 
-* [Build a Data Pipeline with Apache Airflow and PostgreSQL](https://marclamberti.com/blog/airflow-etl-pipeline-example/)
-* [Build an End-to-End Data Engineering Project with PySpark](https://github.com/josephmachado/beginner_data_engineering)
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free course covering Docker, Terraform, GCP/AWS, Airflow, dbt, Spark, and Kafka.
+* [Build an ETL Data Pipeline with Python and Postgres](https://github.com/codebasics/py-crash-course): Step-by-step guide to building robust data ingestion pipelines.
+* [Hands-On Machine Learning Notebooks](https://github.com/ageron/handson-ml3): Interactive tutorials for machine learning pipeline implementation.
 
-## Go
+## Contributing
 
-* [Build a 3D Renderer in Go](https://github.com/fogleman/pt)
+Contributions are welcome! Please ensure links are active and project tutorials are clearly documented before submitting a PR.
