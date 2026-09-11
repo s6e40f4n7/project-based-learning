@@ -1,33 +1,39 @@
 # Project-Based Learning
 
-A curated list of project-based tutorials in various programming languages.
+A curated list of project-based tutorials in programming languages to help developers learn by building real-world applications from scratch.
 
 ## Table of Contents
 
 - [C / C++](#c--c)
-- [C#](#c-1)
-- [Clojure](#clojure)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
 - [Python](#python)
 - [Rust](#rust)
-- [Data Engineering & Data Science](#data-engineering--data-science)
+- [Go](#go)
+- [Contributions](#contributions)
 
 ---
 
+## C / C++
+
+- **[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)**
+- **[Build Your Own Lisp](http://www.buildyourownlisp.com/)**
+
 ## Python
 
-* [Build a Simple Web Scraper with Python](https://realpython.com/python-web-scraping-practical-introduction/)
-* [Build a REST API with Flask and SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/)
-* [Build a CLI Tool with Click](https://click.palletsprojects.com/)
+- **[Build a Simple Web Server with Python](https://aosabook.org/en/500L/a-web-server-500-lines-or-less.html)**
+- **[Build an SQLite Clone in Python](https://cstack.github.io/db_tutorial/)**
 
-## Data Engineering & Data Science
+## Rust
 
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free course covering Docker, Terraform, GCP/AWS, Airflow, dbt, Spark, and Kafka.
-* [Build an ETL Data Pipeline with Python and Postgres](https://github.com/codebasics/py-crash-course): Step-by-step guide to building robust data ingestion pipelines.
-* [Hands-On Machine Learning Notebooks](https://github.com/ageron/handson-ml3): Interactive tutorials for machine learning pipeline implementation.
+- **[Build a Command Line Tool in Rust](https://rust-cli.github.io/book/index.html)**
+- **[Writing an OS in Rust](https://os.phil-opp.com/)**
 
-## Contributing
+## Go
 
-Contributions are welcome! Please ensure links are active and project tutorials are clearly documented before submitting a PR.
+- **[Build a Distributed Key-Value Store](https://github.com/buraksezer/dgraph)**
+- **[Build a Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)**
+
+---
+
+## Contributions
+
+Contributions are welcome! Please check the guidelines before submitting a pull request.
